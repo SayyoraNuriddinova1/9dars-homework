@@ -1,0 +1,11 @@
+@import "loop";
+.btn {
+    width: 100px;
+    height: 50px;
+}
+.container {
+    width: 1400px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+}

@@ -1,0 +1,91 @@
+.btn-primary {
+  color: blue;
+  background-color: blue;
+  border-color: blue;
+  box-shadow: 0 0 20px blue;
+  text-shadow: 0 0 40px blue;
+}
+
+.btn-secondary {
+  color: gray;
+  background-color: gray;
+  border-color: gray;
+  box-shadow: 0 0 20px gray;
+  text-shadow: 0 0 40px gray;
+}
+
+.btn-info {
+  color: aqua;
+  background-color: aqua;
+  border-color: aqua;
+  box-shadow: 0 0 20px aqua;
+  text-shadow: 0 0 40px aqua;
+}
+
+.btn-danger {
+  color: red;
+  background-color: red;
+  border-color: red;
+  box-shadow: 0 0 20px red;
+  text-shadow: 0 0 40px red;
+}
+
+.btn-warning {
+  color: yellow;
+  background-color: yellow;
+  border-color: yellow;
+  box-shadow: 0 0 20px yellow;
+  text-shadow: 0 0 40px yellow;
+}
+
+.btn-success {
+  color: green;
+  background-color: green;
+  border-color: green;
+  box-shadow: 0 0 20px green;
+  text-shadow: 0 0 40px green;
+}
+
+.btn-dark {
+  color: black;
+  background-color: black;
+  border-color: black;
+  box-shadow: 0 0 20px black;
+  text-shadow: 0 0 40px black;
+}
+
+.btn-light {
+  color: rgb(228, 218, 218);
+  background-color: rgb(228, 218, 218);
+  border-color: rgb(228, 218, 218);
+  box-shadow: 0 0 20px rgb(228, 218, 218);
+  text-shadow: 0 0 40px rgb(228, 218, 218);
+}
+
+.btn-indigo {
+  color: indigo;
+  background-color: indigo;
+  border-color: indigo;
+  box-shadow: 0 0 20px indigo;
+  text-shadow: 0 0 40px indigo;
+}
+
+.btn-orange {
+  color: orange;
+  background-color: orange;
+  border-color: orange;
+  box-shadow: 0 0 20px orange;
+  text-shadow: 0 0 40px orange;
+}
+
+.btn {
+  width: 100px;
+  height: 50px;
+}
+
+.container {
+  width: 1400px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+}/*# sourceMappingURL=main.css.map */
